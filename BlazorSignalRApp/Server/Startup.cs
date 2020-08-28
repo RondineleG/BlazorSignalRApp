@@ -5,6 +5,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using BlazorSignalRApp.Server.Hubs;
+using System.Linq;
 
 namespace BlazorSignalRApp.Server
 {
